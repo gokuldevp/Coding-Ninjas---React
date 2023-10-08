@@ -1,3 +1,6 @@
 [submodule "Mini Project Cart/Cart"]
 	path = Mini Project Cart/Cart
 	url = https://github.com/gokuldevp/Mini-Cart.git
+[submodule "Mini"]
+	path = Mini
+	url = https://github.com/gokuldevp/React-Mini-Project-iPod
