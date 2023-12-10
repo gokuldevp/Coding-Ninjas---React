@@ -4,3 +4,6 @@
 [submodule "Mini"]
 	path = Mini
 	url = https://github.com/gokuldevp/React-Mini-Project-iPod
+[submodule "Redux/movie_app"]
+	path = Redux/movie_app
+	url = https://github.com/gokuldevp/Redux-Movie-App.git
